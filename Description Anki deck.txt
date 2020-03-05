@@ -1,5 +1,7 @@
 GUITAR NOTES grip, sheet notation, name and sound
+
 guitar guitarre guittar note notes grip sheet sound music
+
 IMPORTANT: 
 I STRONGLY recommend to use tags in this deck when starting to learn!! (it gets to overwhelming otherwise) 
 The best start for most is probably to start with the "empty_and_gripped_strings" subdeck and within that subdeck with the tag "fret_0" (which is just the empty strings). Then continue with both "fret_0" and "fret_3" and then go on from there. 
@@ -11,4 +13,7 @@ This deck contains the grip, name, sheet notation and sound for every note until
 
 It took me a few days to set this up but it really helped me, so I hope you enjoy it as well! =)
 
-PS: Maybe the START_HERE_empty_strings deck was overkill, but I saw other decks that had downvotes because they were ìconfusingî and I just didnít want that for my deckÖ
+If you want to modify the cards or build a similar deck for a different instrument then you find the source code here:
+https://github.com/v4lue4dded/guitar_notes
+
+PS: Maybe the START_HERE_empty_strings deck was overkill, but I saw other decks that had downvotes because they were ‚Äúconfusing‚Äù and I just didn‚Äôt want that for my deck‚Ä¶

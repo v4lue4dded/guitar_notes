@@ -1,0 +1,14 @@
+GUITAR NOTES grip, sheet notation, name and sound
+guitar guitarre guittar note notes grip sheet sound music
+IMPORTANT: 
+I STRONGLY recommend to use tags in this deck when starting to learn!! (it gets to overwhelming otherwise) 
+The best start for most is probably to start with the "empty_and_gripped_strings" subdeck and within that subdeck with the tag "fret_0" (which is just the empty strings). Then continue with both "fret_0" and "fret_3" and then go on from there. 
+
+Using tags in the desktop version:
+Click on the deck -> Cumstom Study (at the bottom next to Options) -> Study by card state or tag -> Choose Tags -> Require one or more of these tags -> fret_0
+
+This deck contains the grip, name, sheet notation and sound for every note until the 5th fret (where they start overlapping with the neighboring empty string). The ' before a name means one octave higher. It also contains the half steps since the last C in the subdeck halfsteps, since I found those very useful. It contains cards from grip, name, sheet notation and half steps to every one of the other (if one or more of these directions doesn't interest you just delete it under Tools -> Manage Note Types -> Cards.)
+
+It took me a few days to set this up but it really helped me, so I hope you enjoy it as well! =)
+
+PS: Maybe the START_HERE_empty_strings deck was overkill, but I saw other decks that had downvotes because they were “confusing” and I just didn’t want that for my deck…
